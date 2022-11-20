@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="UO:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6ea5cd5-507a-46d2-8df4-ffcdf3350a3f" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GUI9r50D49npFUeFvwG7eBCIdi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/SoftWork&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\UO\src" />
+      <recent name="D:\JAVA\UO" />
+      <recent name="D:\JAVA\UO\libs" />
+      <recent name="D:\JAVA\UO\src\russian\image" />
+      <recent name="D:\JAVA\UO\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\UO\out\production\UO\Photo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Start">
+    <configuration name="MineClearance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sixth.MineClearance" />
+      <module name="UO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sixth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softwork.Start" />
+      <module name="UO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="softwork.Text" />
+      <module name="UO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fly.ShootGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fly.ShootGame" />
+      <module name="UO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="russian.tetris.Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="russian.tetris.Text" />
+      <module name="UO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="russian.tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Start" />
+        <item itemvalue="应用程序.MineClearance" />
+        <item itemvalue="应用程序.russian.tetris.Text" />
+        <item itemvalue="应用程序.fly.ShootGame" />
+        <item itemvalue="应用程序.Text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a6ea5cd5-507a-46d2-8df4-ffcdf3350a3f" name="变更" comment="" />
+      <created>1666436590198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666436590198</updated>
+      <workItem from="1666436591469" duration="395000" />
+      <workItem from="1666437014647" duration="1415000" />
+      <workItem from="1666438476590" duration="293000" />
+      <workItem from="1666438913716" duration="718000" />
+      <workItem from="1666523708100" duration="543000" />
+      <workItem from="1666530498039" duration="612000" />
+      <workItem from="1666622211658" duration="14000" />
+      <workItem from="1666696068067" duration="2995000" />
+      <workItem from="1666699896244" duration="180000" />
+      <workItem from="1666701140694" duration="1861000" />
+      <workItem from="1666703103351" duration="2773000" />
+      <workItem from="1666746215087" duration="5230000" />
+      <workItem from="1667309460717" duration="581000" />
+      <workItem from="1667634646610" duration="5670000" />
+      <workItem from="1667647023778" duration="34000" />
+      <workItem from="1667650132907" duration="23000" />
+      <workItem from="1667650650466" duration="107000" />
+      <workItem from="1667740533571" duration="429000" />
+      <workItem from="1667820905923" duration="904000" />
+      <workItem from="1667822536256" duration="1258000" />
+      <workItem from="1667906385929" duration="2900000" />
+      <workItem from="1667909434224" duration="30000" />
+      <workItem from="1667975441736" duration="113000" />
+      <workItem from="1668144716407" duration="205000" />
+      <workItem from="1668176172646" duration="26000" />
+      <workItem from="1668259567787" duration="4424000" />
+      <workItem from="1668264127247" duration="1064000" />
+      <workItem from="1668265252318" duration="706000" />
+      <workItem from="1668267072095" duration="1471000" />
+      <workItem from="1668342188565" duration="328000" />
+      <workItem from="1668342693470" duration="2819000" />
+      <workItem from="1668345543942" duration="2612000" />
+      <workItem from="1668348298729" duration="1303000" />
+      <workItem from="1668351951647" duration="2059000" />
+      <workItem from="1668354441096" duration="31000" />
+      <workItem from="1668354496671" duration="1337000" />
+      <workItem from="1668388998847" duration="5721000" />
+      <workItem from="1668397618708" duration="138000" />
+      <workItem from="1668418570936" duration="192000" />
+      <workItem from="1668419354665" duration="206000" />
+      <workItem from="1668425830215" duration="75000" />
+      <workItem from="1668526320585" duration="7000" />
+      <workItem from="1668575331450" duration="311000" />
+      <workItem from="1668575674858" duration="123000" />
+      <workItem from="1668576226514" duration="463000" />
+      <workItem from="1668823554359" duration="32000" />
+      <workItem from="1668823603887" duration="376000" />
+      <workItem from="1668825366509" duration="130000" />
+      <workItem from="1668825511582" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
